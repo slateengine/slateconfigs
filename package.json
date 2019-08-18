@@ -1,0 +1,8 @@
+{
+  "name": "slatesassconfigs",
+  "version": "8.0.1",
+  "description": "Configs for the Slate sass framework",
+  "main": "_slateconfig.scss",
+  "author": "Hash&Salt",
+  "license": "MIT"
+}

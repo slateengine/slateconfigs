@@ -1,0 +1,23 @@
+// ======================================================================
+// Slate Framework: Configs <hello@slateengine.com>
+// ======================================================================
+
+// Config Import
+// ======================================================================
+
+// Core
+
+@import '_config-core.scss';
+@import '_config-colors.scss';
+@import '_config-ratio.scss';
+
+// Kits
+
+@import '_config-buttons.scss';
+@import '_config-forms-skin.scss';
+@import '_config-forms.scss';
+@import '_config-grid.scss';
+@import '_config-svg.scss';
+@import '_config-tables.scss';
+@import '_config-type-stacks.scss';
+@import '_config-type.scss';
