@@ -4,5 +4,15 @@
   "description": "Configs for the Slate sass framework",
   "main": "_slateconfig.scss",
   "author": "Hash&Salt",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Hash&Salt",
+  "email": "hello@slateengine.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slateengine/slateconfigs"
+  },
+  "bugs": {
+    "url": "https://github.com/slateengine/slateconfigs/issues"
+  }
 }
