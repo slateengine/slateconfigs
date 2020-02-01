@@ -1,6 +1,6 @@
 {
-  "name": "slatesassconfigs",
-  "version": "8.0.1",
+  "name": "@slateengine/slatesassconfigs",
+  "version": "8.0.6",
   "description": "Configs for the Slate sass framework",
   "main": "_slateconfig.scss",
   "author": "Hash&Salt",
